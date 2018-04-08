@@ -1,0 +1,10 @@
+/home/cuzzn/customcages/bin/Debug/netcoreapp2.0/customcages.deps.json
+/home/cuzzn/customcages/bin/Debug/netcoreapp2.0/customcages.runtimeconfig.json
+/home/cuzzn/customcages/bin/Debug/netcoreapp2.0/customcages.runtimeconfig.dev.json
+/home/cuzzn/customcages/bin/Debug/netcoreapp2.0/customcages.dll
+/home/cuzzn/customcages/bin/Debug/netcoreapp2.0/customcages.pdb
+/home/cuzzn/customcages/obj/Debug/netcoreapp2.0/customcages.csproj.CoreCompileInputs.cache
+/home/cuzzn/customcages/obj/Debug/netcoreapp2.0/customcages.AssemblyInfoInputs.cache
+/home/cuzzn/customcages/obj/Debug/netcoreapp2.0/customcages.AssemblyInfo.cs
+/home/cuzzn/customcages/obj/Debug/netcoreapp2.0/customcages.dll
+/home/cuzzn/customcages/obj/Debug/netcoreapp2.0/customcages.pdb
