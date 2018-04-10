@@ -19,7 +19,10 @@ namespace customcages
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-                .UseStartup<Startup>()
+                .UseKestrel()
+				.UseContentRoot(Directory.GetCurrentDirectory())
+				.UseStartup<Startup>()
+				.UseUrls("Http://*:5000")
                 .Build();
     }
 }
